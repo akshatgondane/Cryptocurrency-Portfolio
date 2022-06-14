@@ -5,10 +5,9 @@
 
 ## Features:
 - Clean and Simple UI.
-- Dark Theme.
 - Used Google Firebase for authentication and storing user data.
-- Register and Login using password.
-- Real time cryptocurrency coin price using [Coin Gecko](https://www.coingecko.com/en/api/documentation).
+- Register and Login using email password.
+- Real time cryptocurrency coin price using [Coin Gecko API](https://www.coingecko.com/en/api/documentation).
 
 
 
