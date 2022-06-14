@@ -9,5 +9,14 @@
 - Register and Login using email password.
 - Real time cryptocurrency coin price using [Coin Gecko API](https://www.coingecko.com/en/api/documentation).
 
+## To be Implemented:
+- Forgot Password.
+- More information like net profit, loss, etc.
 
+## Screenshots:
+
+|     |     |
+| :-: | :-: |
+| Login | Add Coin Page |
+| <img src='screenshots/SignIn.png' height='400'>  | <img src='screenshots/SignUp.png' height='400'>
 
