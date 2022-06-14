@@ -17,6 +17,7 @@
 
 |     |     |
 | :-: | :-: |
-| Login | Add Coin Page |
-| <img src='screenshots/SignIn.png' height='400'>  | <img src='screenshots/SignUp.png' height='400'>
-
+| Login | Dashboard |
+| <img src='screenshots/Login.png' height='400'>  | <img src='screenshots/Dashboard.png' height='400'>
+| Coin Add Page|
+| <img src='screenshots/CoinAddPage.png' height='400'> |
